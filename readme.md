@@ -6,3 +6,4 @@
 		2. Ask the user to enter an Item name.
 			- Search the ArrayList for a match.
 			- If the item is not found add it to the end of the list.
+			..chaGro
